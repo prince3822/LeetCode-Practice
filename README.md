@@ -7,5 +7,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/prince3822/LeetCode-Practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/prince3822/LeetCode-Practice/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/prince3822/LeetCode-Practice/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/prince3822/LeetCode-Practice/tree/master/0185-department-top-three-salaries) |
 | [0607-sales-person](https://github.com/prince3822/LeetCode-Practice/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
