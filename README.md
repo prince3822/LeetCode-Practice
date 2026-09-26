@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/prince3822/LeetCode-Practice/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/prince3822/LeetCode-Practice/tree/master/0185-department-top-three-salaries) |
 | [0607-sales-person](https://github.com/prince3822/LeetCode-Practice/tree/master/0607-sales-person) |
+## Array
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prince3822/LeetCode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prince3822/LeetCode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+## String
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prince3822/LeetCode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 <!---LeetCode Topics End-->
