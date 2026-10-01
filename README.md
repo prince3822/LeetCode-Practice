@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/prince3822/LeetCode-Practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/prince3822/LeetCode-Practice/tree/master/0577-employee-bonus) |
 | [0607-sales-person](https://github.com/prince3822/LeetCode-Practice/tree/master/0607-sales-person) |
+| [1164-product-price-at-a-given-date](https://github.com/prince3822/LeetCode-Practice/tree/master/1164-product-price-at-a-given-date) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/prince3822/LeetCode-Practice/tree/master/1633-percentage-of-users-attended-a-contest) |
 ## Array
 |  |
