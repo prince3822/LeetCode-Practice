@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/prince3822/LeetCode-Practice/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/prince3822/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/prince3822/LeetCode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/prince3822/LeetCode-Practice/tree/master/0024-swap-nodes-in-pairs) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/prince3822/LeetCode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
