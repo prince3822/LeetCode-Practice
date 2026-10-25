@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/prince3822/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/prince3822/LeetCode-Practice/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince3822/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0485-max-consecutive-ones](https://github.com/prince3822/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [1254-number-of-closed-islands](https://github.com/prince3822/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prince3822/LeetCode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prince3822/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
