@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prince3822/LeetCode-Practice/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince3822/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prince3822/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prince3822/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/prince3822/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [1254-number-of-closed-islands](https://github.com/prince3822/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prince3822/LeetCode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/prince3822/LeetCode-Practice/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/prince3822/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prince3822/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/prince3822/LeetCode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prince3822/LeetCode-Practice/tree/master/0015-3sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prince3822/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prince3822/LeetCode-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Depth-First Search
 |  |
