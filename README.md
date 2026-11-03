@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prince3822/LeetCode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prince3822/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prince3822/LeetCode-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prince3822/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/prince3822/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prince3822/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/prince3822/LeetCode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prince3822/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
