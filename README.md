@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/prince3822/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/prince3822/LeetCode-Practice/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince3822/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/prince3822/LeetCode-Practice/tree/master/0198-house-robber) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prince3822/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prince3822/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/prince3822/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/prince3822/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince3822/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/prince3822/LeetCode-Practice/tree/master/0198-house-robber) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prince3822/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
