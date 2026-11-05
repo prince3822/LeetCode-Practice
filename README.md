@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prince3822/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/prince3822/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [1254-number-of-closed-islands](https://github.com/prince3822/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prince3822/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prince3822/LeetCode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prince3822/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prince3822/LeetCode-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prince3822/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/prince3822/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prince3822/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prince3822/LeetCode-Practice/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prince3822/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/prince3822/LeetCode-Practice/tree/master/0125-valid-palindrome) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prince3822/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/prince3822/LeetCode-Practice/tree/master/0015-3sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prince3822/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prince3822/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prince3822/LeetCode-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Depth-First Search
 |  |
