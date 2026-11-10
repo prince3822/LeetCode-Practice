@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prince3822/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2747-count-zero-request-servers](https://github.com/prince3822/LeetCode-Practice/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prince3822/LeetCode-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3693-climbing-stairs-ii](https://github.com/prince3822/LeetCode-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prince3822/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince3822/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/prince3822/LeetCode-Practice/tree/master/0198-house-robber) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prince3822/LeetCode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3693-climbing-stairs-ii](https://github.com/prince3822/LeetCode-Practice/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
 |  |
 | ------- |
