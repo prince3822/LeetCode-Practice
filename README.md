@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prince3822/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/prince3822/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/prince3822/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/prince3822/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prince3822/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prince3822/LeetCode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/prince3822/LeetCode-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/prince3822/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prince3822/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/prince3822/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prince3822/LeetCode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
