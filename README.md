@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prince3822/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/prince3822/LeetCode-Practice/tree/master/0071-simplify-path) |
+| [0234-palindrome-linked-list](https://github.com/prince3822/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prince3822/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prince3822/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prince3822/LeetCode-Practice/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prince3822/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/prince3822/LeetCode-Practice/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/prince3822/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prince3822/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String Matching
 |  |
@@ -146,11 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/prince3822/LeetCode-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/prince3822/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/prince3822/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/prince3822/LeetCode-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/prince3822/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/prince3822/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
